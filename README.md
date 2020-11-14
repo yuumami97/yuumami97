@@ -9,4 +9,7 @@
 - ⚡ Fun fact: People assume programmers are smart!
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
